@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @coderkip
-- 👀 I’m interested in javascript, Html,CSS, Blockchain, Python, SQL and PHP
-- 🌱 I’m currently learning Javascript and HTML
+- 👋 Hi, I’m Kiprono Victor
+- 👀 I’m full-stack engineer.
+- My Tech stack is; javascript, Html,CSS, Blockchain, Python, SQL and PHP
 - 💞️ I’m looking to collaborate on front end and back end projects
 - 📫 You can reach me on on e-mail at kipronovictor254@gmail.com
 
